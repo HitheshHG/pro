@@ -1,0 +1,31 @@
+{
+	"name": "dev-port",
+	"private": true,
+	"version": "0.0.1",
+	"type": "module",
+	"scripts": {
+		"dev": "vite dev",
+		"build": "vite build",
+		"preview": "vite preview"
+	},
+	"devDependencies": {
+		"@sveltejs/adapter-auto": "^3.0.0",
+		"@sveltejs/kit": "^2.9.0",
+		"@sveltejs/vite-plugin-svelte": "^5.0.0",
+		"svelte": "^5.13.0",
+		"vite": "^6.0.0"
+	},
+	"dependencies": {
+		"@fontsource/fira-code": "^5.1.1",
+		"@fontsource/grandstander": "^5.1.2",
+		"@fortawesome/free-brands-svg-icons": "^6.7.2",
+		"@fortawesome/free-solid-svg-icons": "^6.7.2",
+		"@neoconfetti/svelte": "^2.2.1",
+		"@sveltestrap/sveltestrap": "^6.2.7",
+		"svelte-fa": "^4.0.3"
+	},
+	"description": "<h1 align=\"center\">Welcome to my portfolio 👋</h1>",
+	"main": "svelte.config.js",
+	"author": "Hithesh HG",
+	"license": "ISC"
+}
