@@ -24,6 +24,9 @@
 		"@sveltestrap/sveltestrap": "^6.2.7",
 		"svelte-fa": "^4.0.3"
 	},
+	"engines": {
+		"node": "20.x"
+	},
 	"description": "<h1 align=\"center\">Welcome to my portfolio 👋</h1>",
 	"main": "svelte.config.js",
 	"author": "Hithesh HG",
